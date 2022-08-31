@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="REST" language="en" table="x_707741_integra_e_rest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>REST</label>
+            <language>en</language>
+            <name>x_707741_integra_e_rest</name>
+            <plural>RESTs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-31 00:09:51</sys_created_on>
+            <sys_id>17f6124797a51110880032f6f053af99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>REST</sys_name>
+            <sys_package display_value="Integrações com REST API" source="x_707741_integra_e">6f865ec397a51110880032f6f053af67</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integrações com REST API">6f865ec397a51110880032f6f053af67</sys_scope>
+            <sys_update_name>sys_documentation_x_707741_integra_e_rest__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-31 00:09:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
